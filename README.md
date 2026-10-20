@@ -32,7 +32,7 @@ My work sits at the intersection of **software engineering** and **network & sec
 
 - 💼 **Full‑Stack Developer Intern** at **INFI‑TECH** — Next.js, NestJS & TypeScript
 - 🎓 **BSc in ICT** — Mzuzu University *(2021 – 2026)*
-- 🏗️ Currently building **multi‑tenant SaaS** platforms with **microservices** behind an API gateway
+- 🏗️ Currently building **SaaS Systems** platforms with **microservices** behind an API gateway
 - 🌐 Designing & simulating networks with **Cisco Packet Tracer**
 - 🔒 Interested in **Cybersecurity, AI and Networking**
 - 💬 Ask me about **NestJS, PostgreSQL schema design, or VLANs**
