@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://joshuandeule.netlify.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Next.js+%2B+NestJS;SaaS+Systems+%26+microservices;Cisco+networking+%26+cybersecurity+fundamentals;Based+in+Lilongwe%2C+Malawi+%F0%9F%87%B2%F0%9F%87%BC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Next.js+%2B+NestJS;Building+SaaS+Systems+%26+microservices;Cisco+networking+%26+cybersecurity+fundamentals;Based+in+Lilongwe%2C+Malawi+%F0%9F%87%B2%F0%9F%87%BC" alt="Typing SVG" />
 </a>
 
 <br/>
